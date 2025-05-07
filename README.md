@@ -28,6 +28,10 @@
 - Evoluir aos poucos em cada linguagem e tecnologia
 - Compartilhar meu progresso e projetos aqui no GitHub
 
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielHalmenschlager&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
+
 ---
 
 Obrigado por visitar meu perfil! 🚀
