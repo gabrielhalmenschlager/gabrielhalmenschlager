@@ -13,7 +13,7 @@ Atualmente com nível básico, estou me aprofundando em:
 - HTML, CSS, JavaScript  
 - PHP  
 - MySQL  
-- Python  
+- Python, Django   
 - C# e .NET  
 - Git & GitHub
 
@@ -26,6 +26,7 @@ Atualmente com nível básico, estou me aprofundando em:
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+<img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
 </div>
 
 ---
