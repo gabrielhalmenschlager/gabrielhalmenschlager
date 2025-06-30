@@ -13,7 +13,7 @@ Atualmente com nível básico, estou me aprofundando em:
 - HTML, CSS, JavaScript  
 - PHP  
 - MySQL  
-- Python, Django   
+- Python e Django   
 - C# e .NET  
 - Git & GitHub
 
