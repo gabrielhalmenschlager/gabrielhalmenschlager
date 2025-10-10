@@ -1,6 +1,6 @@
-# Olá, eu sou Gabriel Halmenschlager
+# 👨🏻‍💻 Olá, eu sou Gabriel Halmenschlager
 
-Estudante de **Tecnologia da Informação** | 💻 Desenvolvedor Back-End (.NET & C#)  
+Estudante de **Tecnologia da Informação** | Desenvolvedor Back-End (.NET & C#)  
 Transformando ideias em soluções digitais escaláveis  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-halmenschlager-2bb312302/) 
