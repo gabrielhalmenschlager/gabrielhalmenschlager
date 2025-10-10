@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Gabriel Halmenschlager
 
 🎓 Estudante de **Tecnologia da Informação** | 💻 Desenvolvedor Back-End (.NET & C#)  
-🚀 Transformando ideias em soluções digitais escaláveis  
+🚀 Transformando ideias em soluções digitais escaláveis
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-halmenschlager-2bb312302/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielh2007.scs@gmail.com)
@@ -11,32 +11,30 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor em início de carreira, com foco em **Back-End (.NET & C#)**, apaixonado por **resolver problemas com tecnologia e código limpo**.  
+Sou desenvolvedor em início de carreira com foco em **Back-End (.NET & C#)** e apaixonado por criar **soluções digitais eficientes e escaláveis**.  
 
-💡 Meu objetivo é criar **soluções digitais eficientes, escaláveis e que impactem positivamente pessoas e empresas**, unindo **boa arquitetura, aprendizado contínuo e inovação**.  
+💡 Meu objetivo é unir **boa arquitetura, código limpo e aprendizado contínuo** para transformar ideias em sistemas reais que impactam positivamente usuários e empresas.  
 
 🎯 Experiência com **PHP, Python, Django, JavaScript, HTML, CSS** e entrega de projetos completos com **React, Next.js, Node.js, Tailwind CSS e TypeScript**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🧰 Tecnologias e Ferramentas
 
-.NET, C#, PHP, Python, Django, Node.js, React, Next.js, TypeScript, Tailwind CSS, MySQL, SQL Server, Git, GitHub, Postman, Swagger, Figma  
-
-<img alt=".NET" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
-<img alt="C#" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-<img alt="Node.js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-<img alt="PHP" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-<img alt="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img alt="Django" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>
-<img alt="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-<img alt="Next.js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
-<img alt="TypeScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-<img alt="Tailwind" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/>
-<img alt="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-<img alt="SQLServer" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-<img alt="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img alt="GitHub" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+<img alt=".NET" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
+<img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+<img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+<img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+<img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img alt="Django" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>
+<img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+<img alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+<img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+<img alt="Tailwind" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/>
+<img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+<img alt="SQLServer" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+<img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 
 ---
 
@@ -57,15 +55,5 @@ Sou desenvolvedor em início de carreira, com foco em **Back-End (.NET & C#)**, 
 
 ---
 
-## 🌎 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-halmenschlager-2bb312302/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielh2007.scs@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gabriel_halmenschlager)
-
----
-
 ✨ Obrigado por visitar meu perfil!  
-💡 Vamos construir soluções digitais incríveis juntos 🚀  
-
-*"Tecnologia é sobre criar, aprender e evoluir constantemente."*
+💡 Vamos construir soluções digitais incríveis juntos 🚀
