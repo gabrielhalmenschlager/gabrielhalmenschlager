@@ -43,47 +43,25 @@ Sou desenvolvedor em início de carreira com foco em **Back-End (.NET & C#)** e 
 
 ---
 
-## 🚀 Projetos em Destaque
+## ⚡ Habilidades
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center">
 
-<!-- Card de Projeto -->
-<div align="center" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 20px; width: 260px; transition: transform 0.3s; hover: scale(1.05); background-color:#1a1a1a;">
-  <h4>🎯 Sistema Escolar</h4>
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="220" alt="Preview Sistema Escolar"/>
-  <p style="margin:5px 0;">Controle de biblioteca, estoque e cursos online</p>
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django&logoColor=white" />  
-  <p><a href="#" target="_blank">🔗 Ver Repositório</a></p>
+**Back-End:** .NET, C#, PHP, Python, Node.js  
+**Front-End:** React, Next.js, TypeScript, Tailwind CSS  
+**Banco de Dados:** MySQL, SQL Server  
+**Versionamento & APIs:** Git, GitHub, Postman, Swagger  
+**Design & UX:** Figma, boas práticas de UX
+
 </div>
 
-<div align="center" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 20px; width: 260px; transition: transform 0.3s; hover: scale(1.05); background-color:#1a1a1a;">
-  <h4>🎮 API LocaGames</h4>
-  <img src="https://media.giphy.com/media/xT1R9Z7vQUBXLrOE4c/giphy.gif" width="220" alt="Preview API LocaGames"/>
-  <p style="margin:5px 0;">Gerenciamento de jogos, locação e regras por categoria</p>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white" />  
-  <p><a href="#" target="_blank">🔗 Ver Repositório</a></p>
-</div>
+---
 
-<div align="center" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 20px; width: 260px; transition: transform 0.3s; hover: scale(1.05); background-color:#1a1a1a;">
-  <h4>🏢 Sistema de Ativos</h4>
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="220" alt="Preview Sistema de Ativos"/>
-  <p style="margin:5px 0;">Controle de ativos, movimentações e relatórios para empresas</p>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white" />  
-  <p><a href="#" target="_blank">🔗 Ver Repositório</a></p>
-</div>
+## 📊 Estatísticas do GitHub
 
-<div align="center" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 20px; width: 260px; transition: transform 0.3s; hover: scale(1.05); background-color:#1a1a1a;">
-  <h4>🌐 Website Pessoal</h4>
-  <img src="https://media.giphy.com/media/3o6ZsY8e4UNLr8fZ6I/giphy.gif" width="220" alt="Preview Website Pessoal"/>
-  <p style="margin:5px 0;">Portfólio online com projetos e informações profissionais</p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />  
-  <p><a href="#" target="_blank">🔗 Ver Repositório</a></p>
-</div>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielHalmenschlager&show_icons=true&count_private=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHalmenschlager&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -103,3 +81,6 @@ Sou desenvolvedor em início de carreira com foco em **Back-End (.NET & C#)** e 
 </div>
 
 ---
+
+✨ Obrigado por visitar meu perfil!  
+💡 Vamos construir soluções digitais incríveis juntos 🚀
