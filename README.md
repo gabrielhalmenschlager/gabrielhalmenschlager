@@ -21,20 +21,20 @@ Experiência com **PHP, Python, Django, JavaScript, HTML, CSS** e entrega de pro
 
 ## Tecnologias & Ferramentas
 
-<img alt=".NET" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/> &nbsp;
-<img alt="C#" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/> &nbsp;
-<img alt="Node.js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> &nbsp;
-<img alt="PHP" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/> &nbsp;
-<img alt="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> &nbsp;
-<img alt="Django" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/> &nbsp;
-<img alt="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> &nbsp;
-<img alt="Next.js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/> &nbsp;
-<img alt="TypeScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> &nbsp;
-<img alt="Tailwind" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/> &nbsp;
-<img alt="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> &nbsp;
-<img alt="SQLServer" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/> &nbsp;
-<img alt="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> &nbsp;
-<img alt="GitHub" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+<img alt=".NET" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg"/> &nbsp;
+<img alt="C#" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> &nbsp;
+<img alt="Node.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> &nbsp;
+<img alt="PHP" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/> &nbsp;
+<img alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> &nbsp;
+<img alt="Django" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/> &nbsp;
+<img alt="React" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> &nbsp;
+<img alt="Next.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/> &nbsp;
+<img alt="TypeScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> &nbsp;
+<img alt="Tailwind" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> &nbsp;
+<img alt="MySQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> &nbsp;
+<img alt="SQLServer" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/> &nbsp;
+<img alt="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> &nbsp;
+<img alt="GitHub" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 
 ---
 
