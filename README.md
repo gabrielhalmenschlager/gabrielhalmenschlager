@@ -21,7 +21,7 @@ Experiência com **PHP, Python, Django, JavaScript, HTML, CSS** e entrega de pro
 
 ## Tecnologias & Ferramentas
 
-<img alt=".NET" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg"/> &nbsp;
+<img alt=".NET" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/> &nbsp;
 <img alt="C#" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> &nbsp;
 <img alt="Node.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> &nbsp;
 <img alt="PHP" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/> &nbsp;
