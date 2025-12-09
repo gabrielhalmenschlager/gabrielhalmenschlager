@@ -54,8 +54,8 @@ Estou ativamente em busca da minha **primeira oportunidade profissional**, pront
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true&order=1" height="170" alt="Estatísticas Principais" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhalmenschlager&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="170" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br" height="170" alt="Estatísticas Principais" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhalmenschlager&layout=compact&langs_count=5&theme=dark&locale=pt-br" height="170" alt="Linguagens Mais Usadas" />
 </div>
 
 ### 🕹️ Gráfico de Contribuições (Pacman)
