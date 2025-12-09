@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Gabriel%20Halmenschlager&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=blink&desc=Back-End%20Developer&descSize=25&descAlign=50&descAlignY=70&textBg=false&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&reversal=false&text=Gabriel%20Halmenschlager&fontSize=65&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=blink&desc=Back-End%20Developer&descSize=30&descAlign=50&descAlignY=75&textBg=false&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -23,7 +23,17 @@ Estou ativamente em busca da minha **primeira oportunidade profissional**, pront
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,csharp,dotnet,php,js,react,docker,postgresql,mysql,vscode,github,git" alt="Stack de Tecnologias" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Go" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt=".NET" title=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" title="VSCode"/>
 </div>
 
 <br>
