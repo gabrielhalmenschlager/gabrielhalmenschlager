@@ -54,7 +54,7 @@ Estou ativamente em busca da minha **primeira oportunidade profissional**, pront
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br" height="170" alt="Estatísticas Principais" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&show_icons=true&theme=dark&locale=pt-br" height="170" alt="Estatísticas Principais" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhalmenschlager&layout=compact&langs_count=5&theme=dark&locale=pt-br" height="170" alt="Linguagens Mais Usadas" />
 </div>
 
