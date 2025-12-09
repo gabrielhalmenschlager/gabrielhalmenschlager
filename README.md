@@ -65,11 +65,15 @@ Atualmente, desenvolvo projetos utilizando **Go**, **C#/.NET**, **PHP** e **Java
 
 ---
 
-## 📫 Contato
+## ⭐ Projetos em Destaque
 
-**LinkedIn:** https://linkedin.com/in/gabriel-halmenschlager-2bb312302  
-**E-mail:** gabrielh2007.scs@gmail.com
+| Projeto | Descrição | Link |
+|--------|-----------|------|
+| GoGames | API/serviço back-end em Go — prática de arquitetura e lógica | https://github.com/gabrielhalmenschlager/gogames |
+| PokeAPI | API de dados com manipulação e rotas — back-end puro | https://github.com/gabrielhalmenschlager/pokeapi |
+| Senac.SiegGestaoEscolar | Sistema de gestão escolar, com banco de dados e lógica comercial | https://github.com/gabrielhalmenschlager/Senac.SiegGestaoEscolar |
+| Controle de Ativos Senac | Sistema de controle de ativos — backend + persistência | https://github.com/gabrielhalmenschlager/controle-de-ativos-senac |
+| SistemaBibliotecaSenac | CRUD completo para biblioteca — demonstração de aplicação real | https://github.com/gabrielhalmenschlager/sistemaBibliotecaSenac |
 
----
 
 <h4 align="center">✨ “Aprender todos os dias, evoluir sempre.”</h4>
