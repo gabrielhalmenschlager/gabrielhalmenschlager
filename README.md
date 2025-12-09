@@ -1,39 +1,69 @@
-## Sobre mim
-
-Estudante de Tecnologia da Informação no SENAC Santa Cruz do Sul e desenvolvedor back-end em início de carreira. Tenho interesse real pela lógica interna dos sistemas, desde regras de negócio até arquitetura, e busco sempre transformar isso em código limpo, consistente e funcional.
-
-Ao longo da formação e dos projetos pessoais, trabalhei com desenvolvimento de APIs, organização de camadas, boas práticas de arquitetura e integração com bancos de dados. Tenho experiência prática com PostgreSQL e MySQL, além do uso frequente de Docker para ambiente e testes. Também utilizo Postman e Swagger para documentação e análise de endpoints.
-
-Estudo programação diariamente, aprofundando minha base em desenvolvimento back-end, padrões de projeto e princípios como MVC, DDD, modularização e versionamento eficiente. Meu objetivo é evoluir tecnicamente e construir uma carreira sólida na área.
-
-Busco minha primeira oportunidade profissional para atuar em um time que valorize boas práticas e permita crescer com desafios reais.
+<h1 align="center">👨🏻‍💻 Gabriel Halmenschlager</h1>
+<h3 align="center">Desenvolvedor Back-End em formação | TI – SENAC Santa Cruz do Sul</h3>
 
 ---
 
-## Tecnologias
+## 🚀 Sobre mim
 
-### 🔧 Linguagens e Back-end
-- Go  
-- C# / .NET  
-- PHP  
-- JavaScript  
+Desenvolvedor back-end em início de carreira, com foco em construção de APIs, lógica de negócio, modelagem e boas práticas de arquitetura.  
+Estudo programação diariamente para fortalecer minha base em back-end, padrões de projeto e organização de código.  
+Busco sempre escrever soluções limpas, robustas e fáceis de manter.
+
+Atualmente, desenvolvo projetos utilizando **Go**, **C#/.NET**, **PHP** e **JavaScript**, com integração a bancos de dados, versionamento e containers.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 🔧 Back-End
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+### 🌐 Front-End (apoio)
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 ### 🗄️ Banco de Dados
-- PostgreSQL  
-- MySQL  
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-### 🛠️ Ferramentas
-- Docker  
-- Git  
-- Swagger  
-- Postman  
+### ⚙️ Ferramentas
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 
-### 🧱 Práticas e Arquitetura
+---
+
+## 📐 Arquitetura & Boas Práticas
+
 - MVC  
 - DDD  
 - APIs REST  
+- Modularização e Clean Code  
 
 ---
 
-## 🌐 GitHub
-[github.com/gabrielhalmenschlager](https://github.com/gabrielhalmenschlager)
+## 📊 Estatísticas
+<div align="center">
+
+<!-- Você pode ativar as stats se quiser. Deixo comentado para não poluir visualmente.  
+É só remover os comentários abaixo. -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhalmenschlager&layout=compact&theme=github_dark"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+**LinkedIn:** https://linkedin.com/in/gabriel-halmenschlager-2bb312302  
+**E-mail:** gabrielh2007.scs@gmail.com
+
+---
+
+<h4 align="center">✨ “Aprender todos os dias, evoluir sempre.”</h4>
