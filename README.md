@@ -10,10 +10,11 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor back-end em início de carreira, focado em construir APIs bem estruturadas, com lógica sólida, modelagem clara e boas práticas de arquitetura.  
+Sou desenvolvedor back-end em início de carreira, focado em construir APIs bem estruturadas, com lógica sólida, modelagem clara e boas práticas de arquitetura.
+
 Estudo programação diariamente para aprofundar minha base em back-end, padrões de projeto e organização de código — buscando sempre escrever soluções limpas, diretas e fáceis de manter.
 
-Trabalho atualmente com **Go**, **C#/.NET**, **PHP** e **JavaScript**, construindo projetos que integram APIs REST, bancos de dados e containers.
+Estudo atualmente **Go**, **C#/.NET**, **PHP** e **JavaScript**, construindo projetos que integram APIs REST, bancos de dados e containers.
 
 ---
 
