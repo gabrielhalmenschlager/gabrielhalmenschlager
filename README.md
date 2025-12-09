@@ -39,22 +39,13 @@ Meu trabalho vai além de escrever código: busco criar sistemas organizados, te
 
 ---
 
-## ⭐ Projetos em Destaque
-
-| Projeto | Stack Princpal | Descrição |
-| :--- | :--- | :--- |
-| [**GoGames API**](https://github.com/gabrielhalmenschlager/gogames) | `Go` `Clean Arch` | API RESTful focada em arquitetura limpa, desacoplamento e boas práticas de Go. |
-| [**SIEG – Gestão Escolar**](https://github.com/gabrielhalmenschlager/Senac.SiegGestaoEscolar) | `C#` `.NET` | Sistema complexo de gestão escolar com regras de negócio, validações e persistência robusta. |
-| [**Controle de Ativos**](https://github.com/gabrielhalmenschlager/controle-de-ativos-senac) | `PHP` `PostgreSQL` | Aplicação utilizada em ambiente real para gestão de hardware e ativos organizacionais. |
-| [**Sistema Biblioteca**](https://github.com/gabrielhalmenschlager/sistemaBibliotecaSenac) | `Back-End` `CRUD` | Sistema completo de empréstimos e devoluções com lógica de negócio para prazos e multas. |
-
----
-
 ## 📊 Métricas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=999" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhalmenschlager&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&langs_count=6&text_color=999" height="160" />
+  <a href="https://github.com/gabrielhalmenschlager">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhalmenschlager&layout=compact&theme=tokyonight&langs_count=6"/>
+  </a>
 </div>
 
 <div align="center">
