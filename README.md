@@ -47,13 +47,19 @@ Atualmente, desenvolvo projetos utilizando **Go**, **C#/.NET**, **PHP** e **Java
 ---
 
 ## 📊 Estatísticas
+
 <div align="center">
 
-<!-- Você pode ativar as stats se quiser. Deixo comentado para não poluir visualmente.  
-É só remover os comentários abaixo. -->
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhalmenschlager&layout=compact&theme=github_dark"/>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhalmenschlager&layout=donut&theme=github_dark&langs_count=6"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
