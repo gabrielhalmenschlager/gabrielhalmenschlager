@@ -43,8 +43,8 @@ Meu trabalho vai além de escrever código: busco criar sistemas organizados, te
 
 <div align="center">
   <a href="https://github.com/gabrielhalmenschlager">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhalmenschlager&layout=compact&theme=tokyonight&langs_count=6"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=999&include_all_commits=true&count_private=true" alt="Estatísticas de Gabriel Halmenschlager"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhalmenschlager&layout=compact&theme=transparent&title_color=0077B5&langs_count=6&text_color=999" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
