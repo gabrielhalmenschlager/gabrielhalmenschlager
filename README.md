@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Desenvolvedor **Back-End** em formação, apaixonado por arquitetura de software e boas práticas de desenvolvimento.
 
@@ -17,10 +17,10 @@ Atualmente, curso **Tecnologia da Informação no SENAC Santa Cruz do Sul**, foc
 Meu trabalho foca em **APIs RESTful** eficientes, aplicando **Clean Architecture** e **DDD (Domain-Driven Design)** para criar soluções organizadas, testáveis e fáceis de manter.
 
 Estou ativamente em busca da minha **primeira oportunidade profissional**, pronto para aplicar minhas habilidades em **Go (Golang)**, **C#/.NET**, **PHP** e **JavaScript**, entregando resultados reais e agregando valor a uma equipe.
-
+-
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Go" title="Go"/>
@@ -47,7 +47,7 @@ Estou ativamente em busca da minha **primeira oportunidade profissional**, pront
 
 ---
 
-## 🔗 Contato
+## Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-halmenschlager/" target="_blank">
@@ -61,14 +61,14 @@ Estou ativamente em busca da minha **primeira oportunidade profissional**, pront
 
 ---
 
-## 📊 Estatísticas e Atividade
+## Estatísticas e Atividade
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielhalmenschlager&show_icons=true&theme=dark&locale=pt-br" height="170" alt="Estatísticas Principais" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhalmenschlager&layout=compact&langs_count=5&theme=dark&locale=pt-br" height="170" alt="Linguagens Mais Usadas" />
 </div>
 
-### 🕹️ Gráfico de Contribuições (Pacman)
+### Gráfico de Contribuições (Pacman)
 
 <div align="center">
   <picture>
