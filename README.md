@@ -1,9 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&reversal=false&text=Gabriel%20Halmenschlager&fontSize=65&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=blink&desc=Back-End%20Developer&descSize=30&descAlign=50&descAlignY=75&textBg=false&theme=tokyonight" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Gabriel%20Halmenschlager&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&desc=Back-End%20Developer&descSize=20&descAlign=50&descAlignY=95&textBg=false&theme=dark"  />
 </div>
 
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrielhalmenschlager.gabrielhalmenschlager&" alt="Contador de Visitas" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrielhalmenschlager.gabrielhalmenschlager&"  />
 </div>
 
 ---
@@ -80,6 +82,6 @@ Estou ativamente em busca da minha **primeira oportunidade profissional**, pront
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
 </div>
