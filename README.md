@@ -40,26 +40,13 @@ Estou ativamente em busca da minha **primeira oportunidade profissional**, pront
 
 <br>
 
+
 | Domínio | Conceitos Chave |
 | :--- | :--- |
 | **Linguagens** | Go, C#, PHP, JavaScript |
 | **Arquitetura** | RESTful APIs, Clean Architecture, DDD, MVC |
 | **Banco de Dados** | PostgreSQL, MySQL |
 | **Ferramentas** | Docker, Git, VSCode |
-
----
-
-## Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-halmenschlager/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="mailto:gabrielh2007.scs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
 
 ---
 
@@ -78,6 +65,20 @@ Estou ativamente em busca da minha **primeira oportunidade profissional**, pront
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielhalmenschlager/gabrielhalmenschlager/output/pacman-contribution-graph.svg">
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/gabrielhalmenschlager/gabrielhalmenschlager/output/pacman-contribution-graph.svg">
   </picture>
+</div>
+
+---
+
+## Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-halmenschlager/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="mailto:gabrielh2007.scs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
 ---
